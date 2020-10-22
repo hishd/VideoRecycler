@@ -1,0 +1,3 @@
+include ':RoundCornerImageView'
+include ':app'
+rootProject.name = "VideoRecycler"
